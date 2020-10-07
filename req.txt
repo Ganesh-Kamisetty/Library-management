@@ -1,0 +1,10 @@
+High level Requirements:
+•	Acquisition Management
+•	Books Circulation Tracking
+•	User friendly Interface
+
+
+Low Level Requirements:
+•	Books
+•	Database
+•	Rapid and powerful searches
